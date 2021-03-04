@@ -1,5 +1,4 @@
 import { Canvas } from 'react-three-fiber'
-import { Box } from '../Box'
 import { OrbitControls, Plane, softShadows, Sphere } from '@react-three/drei'
 
 softShadows()
